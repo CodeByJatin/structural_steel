@@ -1,0 +1,12 @@
+# Confidential client notes (Explicit requirement: do not publish publicly)
+*discovery-call-notes*
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
